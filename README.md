@@ -34,5 +34,5 @@ flutter run
 ## Screenshots
 
 <!-- Add your screenshots here -->
-![Flutter Doctor](screenshots/flutter_doctor.png)
+![Flutter Doctor](screenshots/flutter-doctor.png)
 ![App Running](screenshots/app_running.png)
